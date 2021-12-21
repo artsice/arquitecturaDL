@@ -48,3 +48,4 @@ async function predict() {
         labelContainer.childNodes[i].innerHTML = classPrediction;
     }
 }
+<script>
